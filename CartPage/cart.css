@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.Navbar{
+    height: 35px;
+    width: 100%;
+    background-color: rgb(25, 22, 22);
+    display: flex;
+    
+}
+.icons{
+    margin-left: 20px;
+    /* background-color: yellow; */
+    align-content: center;
+    display: flex;
+    margin-left: 870px;
+    color: aliceblue;
+}
+.para{
+    /* background-color: rgb(192, 21, 175); */
+    margin-left: 40px;
+    align-content: center;
+    color: aliceblue;
+   
+}
+.icon1{
+    /* background-color: chartreuse; */
+    align-content: center;
+    margin-left: 30px;
+}
+.icon2{
+    /* background-color: darkorange; */
+    align-content: center;
+    margin-left: 30px;
+}
+.icon3{
+    /* background-color: rgb(203, 24, 24); */
+    align-content: center;
+    margin-left: 30px;
+}
+.hyper{
+    color: aliceblue;
+}
+
