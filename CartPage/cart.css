@@ -47,5 +47,36 @@
     height: 600px;
     width: 100%;
     background-color: aqua;
+    display: flex;
+
 }
+
+.cartScroll {
+    overflow-y: auto; 
+    height: 400px; 
+    width: 55%; 
+    padding: 20px;
+    border-radius: 4px; 
+    background-color: #845713; 
+    margin: 20px 0; 
+    box-sizing: border-box; 
+    margin-top: 50px;
+}
+
+.cartScroll > div {
+    
+    padding: 10px;
+    background-color: #fff;
+    margin-bottom: 10px; 
+    border-radius: 4px; 
+}
+
+.summery{
+    height: 400px;
+    width: 45%;
+    background-color: yellow;
+    margin-top: 50px;
+
+}
+
 
