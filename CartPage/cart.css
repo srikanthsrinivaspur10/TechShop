@@ -5,7 +5,7 @@
 .Navbar{
     height: 35px;
     width: 100%;
-    background-color: rgb(25, 22, 22);
+    background-color: #141414;
     display: flex;
     position: fixed;
     
@@ -46,7 +46,7 @@
 .cartBody{
     height: 600px;
     width: 100%;
-    background-color:rgb(25, 22, 22);
+    background-color:#141414;
     display: flex;
 
 }
@@ -57,7 +57,7 @@
     width: 55%; 
     padding: 20px;
     border-radius: 4px; 
-    background-color:rgb(25, 22, 22); 
+    background-color:#161819; 
     margin: 20px 0; 
     box-sizing: border-box; 
     margin-top: 50px;
@@ -75,7 +75,7 @@
 .summery{
     height: 400px;
     width: 45%;
-    background-color: yellow;
+    background-color:#141414;
     margin-top: 50px;
     
 
@@ -83,7 +83,7 @@
 .itemBox{
     width: 100%;
     height: 200px;
-    background-color: rgb(25, 22, 22);
+    background-color: #161819;
 
 }
 .line{
@@ -93,7 +93,7 @@
 .image{
   width: 30%;
   height: 200px;
-  background-color:rgb(25, 22, 22);
+  background-color:#161819;
 }
 .pic{
     width: 80%;
@@ -101,18 +101,18 @@
     margin-left: 20px;
 }
 .infor{
-    background-color:rgb(25, 22, 22);
+    background-color:(57, 55, 55);
     width: 70%;
     height: 200px;
 }
 .cartPara{
     margin-top: 20px;
-    background-color: rgb(25, 22, 22);
+    background-color:#161819;
     color: aliceblue;
 }
 .first{
     display: flex;
-    background-color: rgb(25, 22, 22);
+    background-color: #161819;
 }
 .trash{
     margin-top: 20px;
@@ -120,7 +120,7 @@
     color: aliceblue;
 }
 .dis{
-    background-color:rgb(25, 22, 22);
+    background-color:#161819;
     
 }
 .rate{
@@ -129,14 +129,14 @@
 }
 .cartBut{
   display: flex;
-  background-color: rgb(25, 22, 22);
+  background-color: #161819;
   margin-top: 20px;
   border-radius: 5px;
 }
 .plus{
     width:8%;
     height: 100%;
-    background-color:rgb(53, 51, 51);
+    background-color:#222222;
     text-align: center;
     color: aliceblue;
     
@@ -144,7 +144,7 @@
 .minus{
     width:8%;
     height: 100%;
-    background-color:rgb(53, 51, 51);
+    background-color:#222222;
     text-align: center;
     color: aliceblue;
     
@@ -152,7 +152,7 @@
 .one{
     width:8%;
     height: 100%;
-    background-color:black;
+    background-color:#161819;
     text-align: center;
     color: aliceblue;
     
@@ -160,3 +160,53 @@
 .delete{
     font-size: small;
 }
+.sum{
+    display:flex;
+    background-color: #141414;
+    width: 100%;
+    height: 40%;
+}
+.cartsum{
+    width: 50%;
+}
+.p1{
+    margin-top: 20px;
+    color: aliceblue;
+}
+.p2{
+    margin-top: 20px;
+    color: #0c450b;
+}
+.p3{
+    margin-top: 20px;
+    margin-left: 26px;
+    color: #0c450b;
+}
+.p4{
+    margin-top: 20px;
+    margin-left: 40px;
+    color: aliceblue;
+}
+.sumh{
+    margin-left: 40px;
+    color: aliceblue;
+}
+.total{
+    display: flex;
+}
+.bajb{
+   width: 100%;
+   background-color: #141414;
+   margin-top: 30px;
+}
+.checkout{
+    height: 40px;
+    width: 60%;
+    background-color: #d00404;
+    margin-left: 40px;
+    color: aliceblue;
+    font-size: medium;
+    border-radius: 2px;
+    border: solid #d00404 1px;
+}
+
