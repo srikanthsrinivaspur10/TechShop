@@ -33,8 +33,10 @@
     margin-bottom:20px ;
     height: 45px;
     width: 80%;
-    border: solid aliceblue 1px;
+    border: 1px solid #5C5C5C;
     border-radius: 2px;
+    background-color: rgb(40, 39, 39) ;
+    cursor: pointer;
 }
 .but{
     margin-left:40px ;
@@ -45,6 +47,7 @@
     color: aliceblue;
     background-color: red;
     border-radius: 2px;
+    cursor: pointer;
 }
 
 .line-container {
@@ -94,6 +97,10 @@ color: aliceblue;
     border: solid #1DA1F2 1px;
     border-radius: 2px;
     color: aliceblue;  
+  }
+  input::placeholder {
+    color: aliceblue;  
+  
   }
   
 
