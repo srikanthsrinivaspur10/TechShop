@@ -7,6 +7,7 @@
     width: 100%;
     background-color: rgb(25, 22, 22);
     display: flex;
+    position: fixed;
     
 }
 .icons{
@@ -41,5 +42,10 @@
 }
 .hyper{
     color: aliceblue;
+}
+.cartBody{
+    height: 600px;
+    width: 100%;
+    background-color: aqua;
 }
 
